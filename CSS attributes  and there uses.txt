@@ -1,0 +1,10 @@
+justify-content :- https://www.w3schools.com/cssref/css3_pr_justify-content.asp
+
+align-items :- https://www.w3schools.com/cssref/css3_pr_align-items.asp
+
+display :- https://www.w3schools.com/cssref/pr_class_display.asp
+
+flex-wrap :- https://www.w3schools.com/cssref/css3_pr_flex-wrap.asp
+
+
+
